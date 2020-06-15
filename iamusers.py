@@ -1,4 +1,5 @@
 import boto3
+import sys
 
 access_key=sys.argv[0]
 secret_key=sys.argv[1]
